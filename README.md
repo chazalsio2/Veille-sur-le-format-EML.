@@ -2,7 +2,7 @@
 
 Intro:
 EML est un format de fichier mail brute.
-Le fichier est standardisé et peut donc être lu par des webmail, client mail ou des outils écrits pour.
+Le fichier est standardisé et peut donc être lu par des webmail, client mail ou des outils écrits pour pouvoir être lu.
 Le format est relativement simple puisqu'il est en brute, on trouve l'en-tête du mail, le sujet et le corps.
 Les pièces jointes y sont aussi présentes.
 Bref le même contenu que lorsque vous regardez le source d'un mail.
